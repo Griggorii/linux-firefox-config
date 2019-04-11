@@ -2,7 +2,7 @@ Instructions https://youtu.be/nC5aWY_d9s4
 
 Если не хотите терять свои расширения то замените свой prefs.js тем что в архиве mozilla.zip естественно распакуйте и поищите директорию где prefs.js лежит набрав в поиске prefs.js в моём конфиге есть Web Ide (Shif + F8) для разработчиков не знаю в новых конфигах есть или нет смотрите сами.
 
-prefs.js данный вне архива это много измененный конфиг и он больше экспериментальный https://www.youtube.com/watch?v=nlJFJchdNVI
+prefs.js данный вне архива это много измененный конфиг и он больше экспериментальный на 16.04 убралась диагональная полоса таким образом https://www.youtube.com/watch?v=nlJFJchdNVI  , в конфиге включен dispatcher audio.
 
 4K optimal video test https://www.youtube.com/watch?v=n-RjGEWW3nk
  
