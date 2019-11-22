@@ -1,4 +1,4 @@
-Instructions https://youtu.be/nC5aWY_d9s4
+Instructions https://youtu.be/nC5aWY_d9s4?t=293
 
 Если не хотите терять свои расширения то замените свой prefs.js тем что в архиве mozilla.zip естественно распакуйте и поищите директорию где prefs.js лежит набрав в поиске prefs.js в моём конфиге есть Web Ide (Shif + F8) для разработчиков не знаю в новых конфигах есть или нет смотрите сами.
 
